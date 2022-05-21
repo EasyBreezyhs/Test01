@@ -1,0 +1,3 @@
+/home/easybrezzy/learngit/cmake/hello/build/CMakeFiles/hello.dir
+/home/easybrezzy/learngit/cmake/hello/build/CMakeFiles/edit_cache.dir
+/home/easybrezzy/learngit/cmake/hello/build/CMakeFiles/rebuild_cache.dir
