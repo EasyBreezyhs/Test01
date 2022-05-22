@@ -1,3 +1,4 @@
 # Test01
-My first repository
-Exercise Linux git。。。。。。
+My first repository.
+
+Exercise Linux git......
